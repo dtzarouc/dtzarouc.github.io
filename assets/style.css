@@ -98,3 +98,12 @@ footer.site .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:
 .callout ul{margin:.3em 0 0;padding-left:1.1em}
 .timeline .item.feat::before{width:15px;height:15px;left:-31px;top:.4em;background:var(--accent-2)}
 .timeline .item.feat{background:var(--warm);border-radius:10px;padding:8px 12px;margin-left:-4px}
+/* industrial research highlight */
+.industry{margin:34px 0 6px;padding:22px 26px 14px;border-radius:var(--radius);border:1px solid #f1d6c3;
+  background:linear-gradient(135deg,#fff3ea,#f2f9fe);box-shadow:0 6px 22px rgba(210,105,58,.08)}
+.industry .tag{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--accent-2);font-weight:600}
+.industry h2{margin:.2em 0 .4em;font-size:1.45rem}
+.industry ul.ind{margin:.4em 0 .6em;padding-left:1.2em}
+.industry li{margin:.25em 0}
+.note.music{font-size:.92rem;opacity:.9}
+.note.music a{border-bottom:1px dotted currentColor}
